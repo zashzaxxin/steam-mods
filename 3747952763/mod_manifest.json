@@ -1,0 +1,13 @@
+{
+  "id": "ATA_IronClad",
+  "pck_name": "ATA_IronClad",
+  "name": "机娘“阿塔”",
+  "author": "OLC, 阿塔Official",
+  "description": "铁甲战士角色美化：将铁甲战士替换为机娘“阿塔”，并替换大多数卡图\n本mod由 OLC 制作，角色形象由阿塔Official原创\n美术资源由百南芋 / Coria / INGOTzw / 闪光菠萝皮等画师绘制（已委托并获得使用权）\n相关内容版权归阿塔Official所有（All rights reserved）\n本作品采用 CC BY-NC-ND 4.0 协议授权\n转载请注明出处，禁止修改、二次创作及商业用途",
+  "version": "0.1.13",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": false,
+  "min_game_version": "0.103.2",
+  "dependencies": []
+}

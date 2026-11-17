@@ -1,0 +1,12 @@
+{
+  "id":"KaguyaSilentRavenSkin",
+  "pck_name": "KaguyaSilentRavenSkin",
+  "name": "KaguyaSilentRavenSkin",
+  "author": "Shirayoi=Kaguya",
+  "description": "A Skin for Silent for beta",
+  "version": "v0.1.7",
+  "min_game_version": "0.111.0",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": false
+}

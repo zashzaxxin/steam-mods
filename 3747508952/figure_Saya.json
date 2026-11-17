@@ -1,0 +1,12 @@
+{
+  "id": "figure_Saya",
+  "name": "沙耶之歌",
+  "author": "千导院枫",
+  "description": "一只可爱的沙耶\n感谢以下各位的帮助，名称均为B站ID：\n基础玩法设计：- @能天使-我吹爆\n- 卡图/立绘/数值：@星引晨起\n- 卡图/立绘/UI设计：@岳书崖\n- 文本优化，先古对话 @比木鱼ovo @一本证经的\n- 数值/玩法设计：@大群意志_伊莎玛拉\n- Icon：@_兔子鱼\n- Icon/立绘：@風葭冰\n- 文本优化/体验改善：@佛教飞车卡西欧",
+  "version": "2.2.0",
+  "min_game_version": "0.107.1",
+  "dependencies": [],
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": true
+}

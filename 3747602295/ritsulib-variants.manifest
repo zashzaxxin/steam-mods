@@ -1,0 +1,58 @@
+{
+  "schema": 2,
+  "shared": [
+    {
+      "assembly": "STS2-RitsuLib.Shared",
+      "sha256": "b73652c0735d34fa4ab39f4811d3188036ff089cee6d3ce2af83999e89f31832"
+    },
+    {
+      "assembly": "STS2-RitsuLib.Ui",
+      "sha256": "c8b1f2f140d09250aa6cd438f19b553f52b8f83d1c075bee0052faf47882103b"
+    },
+    {
+      "assembly": "STS2-RitsuLib.Settings",
+      "sha256": "0ed1cbab18c881e11cc52bd4f806ef61a29105096cc757f7094484daaed8ff47"
+    }
+  ],
+  "variants": [
+    {
+      "compatTarget": "0.107.1",
+      "files": [
+        {
+          "assembly": "STS2-RitsuLib.Runtime",
+          "sha256": "01c6b8e3b20da9910b0f277e95e8ba0c889446dfa8fddd5b0274969fa219d45b"
+        },
+        {
+          "assembly": "STS2-RitsuLib",
+          "sha256": "06c167b64f57b516558a191fb6961703ed1c9ea4d54228b463e61c28a08bee29"
+        }
+      ]
+    },
+    {
+      "compatTarget": "0.111.0",
+      "files": [
+        {
+          "assembly": "STS2-RitsuLib.Runtime",
+          "sha256": "82aaae03b873c285d44b56e8e2504fc07e03ce5bcb2c22d3f4dfca46bb630ae2"
+        },
+        {
+          "assembly": "STS2-RitsuLib",
+          "sha256": "41feff62fb0767b5fab9b29506defeb803cecd955b84aaedd3b221d7870f2b7b"
+        }
+      ]
+    },
+    {
+      "compatTarget": "0.113.0",
+      "files": [
+        {
+          "assembly": "STS2-RitsuLib.Runtime",
+          "sha256": "439fbc197226e0ae2d4333a3481811176716021f2b46f8f67bbc0266948fdaae"
+        },
+        {
+          "assembly": "STS2-RitsuLib",
+          "sha256": "cb1281f8045b9f1a2f181fce751188b7ca56e32fc95956cc1cd99e9188d8b8df"
+        }
+      ]
+    }
+  ]
+}

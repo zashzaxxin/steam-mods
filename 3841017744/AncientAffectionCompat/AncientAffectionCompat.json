@@ -1,0 +1,12 @@
+{
+  "id": "AncientAffectionCompat",
+  "name": "Ancient Affection Compatibility Patch",
+  "author": "Nayuri",
+  "description": "Requires the original Ancient Affection, BaseLib and RitsuLib. Load order is automatic; no manual sorting or original file changes. 원본 및 필수 모드와 함께 활성화하세요. 순서는 자동 정렬되며 원본 파일은 변경하지 않습니다.",
+  "version": "v0.3.2",
+  "min_game_version": "0.113.1",
+  "has_dll": true,
+  "has_pck": false,
+  "dependencies": [{ "id": "AncientAffection", "min_version": "0.1.0" }],
+  "affects_gameplay": true
+}
